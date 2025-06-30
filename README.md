@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hello, World!
 
-<!--
-**MiraHavel/MiraHavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie game developer
+I've been playing different games since I was a kid and games have been my best friend in my life. I'm always trying to make games that people enjoy playing.
 
-Here are some ideas to get you started:
+[![Gmail](https://github.com/MiraHavel/MiraHavel/blob/main/assets/email.png)](mailto:mirahavel.dev@gmail.com)
+[![GitHub User's stars](https://img.shields.io/github/stars/maldron0309?color=fafa2f&logo=github)](#)
+[![GitHub followers](https://img.shields.io/github/followers/MiraHavel?logo=github)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>[Tech Stacks]</h2>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c" />
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=csharp" />
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=rust" />
+      <img src="https://skillicons.dev/icons?i=js" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Game Engines</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=unity" />
+      <img src="https://skillicons.dev/icons?i=godot" />
+      <img src="https://skillicons.dev/icons?i=unreal" />
+      <img src="https://raw.githubusercontent.com/MiraHavel/MiraHavel/main/assets/gldsrcicon.png" width="48" height="48" alt="GoldSrc engine" />
+      <img src="https://raw.githubusercontent.com/MiraHavel/MiraHavel/main/assets/sourceIcon.png" width="48" height="48" alt="Source engine" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Game Frameworks</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/MiraHavel/MiraHavel/main/assets/Raylib_logo.png" width="48" height="48" alt="Raylib" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,svelte" />
+    </td>
+  </tr>
+</table>
+
+
+### 🌱 I’m currently learning
+- Languages: C/C++, C#, Python, Rust, Assembly
+- Topics: Game Math, Game Physics, raylib,
