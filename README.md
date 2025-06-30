@@ -16,12 +16,7 @@ I've been playing different games since I was a kid and games have been my best 
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c" />
-      <img src="https://skillicons.dev/icons?i=cpp" />
-      <img src="https://skillicons.dev/icons?i=csharp" />
-      <img src="https://skillicons.dev/icons?i=python" />
-      <img src="https://skillicons.dev/icons?i=rust" />
-      <img src="https://skillicons.dev/icons?i=js" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js" />
     </td>
   </tr>
   <tr>
